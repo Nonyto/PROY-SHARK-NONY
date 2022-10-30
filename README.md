@@ -1,2 +1,2 @@
-# PROYECTOS-NONY
-Repo de proyectos Ironhack OCT22
+# PROYECTO SHARK NONY
+Proyecto de data cleaning y estadística
