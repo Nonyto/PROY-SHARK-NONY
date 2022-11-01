@@ -59,18 +59,9 @@ Age column contained integer and string values (i.e. '13 or 14' or 7 & 30) so I 
 
 To replace the NaN value I studied the age distribution with a boxplot and distribution plot to decide if I should use the mean, mode or median value for age.
 
-
-IMG BOXPLOT
-
-In the boxplot graphic, I figured out about outliers greater than aprox. 60 years old and a huge group of values between 18-35 (more or less). This fact suggested me that using the mean of age values was not a good idea.
-
-IMG DISPLOT
-
-In the distribution plot graphic, I observed that distribution was left-skewed so median (24 yo) or mode (17 yo) were good options to use for but the quantity of NaN values was nearby 50%. I rejected the idea and replaced NaN values by 'not declared'. The new column about age was included in the Dataframe.
-
+In the boxplot graphic, I figured out about outliers greater than aprox. 60 years old and a huge group of values between 18-35 (more or less). This fact suggested me that using the mean of age values was not a good idea. Then I did a distribution plot graphic and I observed that distribution was left-skewed so median (24 yo) or mode (17 yo) were good options to use for but the quantity of NaN values was nearby 50%. I rejected the idea and replaced NaN values by 'not declared'. The new column about age was included in the Dataframe.
 
 Dataframe dimensions are now 6302 rows x 23 columns.
-
 
 ### 4) Atypical and/or wrong reported values replacing 🥴❓
 
