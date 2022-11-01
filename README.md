@@ -1,12 +1,11 @@
-https://github.com/Nonyto/PROY-SHARK-NONY/blob/main/imgs/sharksread2.png?raw=true
+ ![alt text](https://github.com/Nonyto/PROY-SHARK-NONY/blob/main/imgs/sharksread2.png?raw=true)
 
 
 # PROYECT: SHARKS 
 
 Data cleaning and statistics
 
-
-
+<p align="justify"> 
 The goal of this project is to use data wrangling, cleaning, and manipulation with Pandas. For this project, I have to use a messy data set about Shark Attack. The final report will consist of a clean CSV data file and some graphs to understand de data.
 
 
@@ -140,3 +139,4 @@ https://towardsdatascience.com/beware-of-storytelling-with-data-1710fea554b0?gi=
 
 =======
 
+</p>
