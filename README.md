@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PROYECT: SHARKS 
 
 Data cleaning and statistics
@@ -135,3 +136,7 @@ https://matplotlib.org/
 https://seaborn.pydata.org/
 https://pandas.pydata.org/docs/
 https://towardsdatascience.com/beware-of-storytelling-with-data-1710fea554b0?gi=537e0c10d89e
+=======
+# PROYECTO SHARK NONY
+Proyecto de data cleaning y estadística
+>>>>>>> dc23384bcf81d74c68cf5e3e266357ef843a0ab2
